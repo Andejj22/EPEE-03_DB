@@ -61,6 +61,15 @@
 					(type background)
 				)
 			)
+			(text "DB Aux + PWR\nConnector"
+				(at -0.508 -3.048 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(color 0 132 132 1)
+					)
+				)
+			)
 			(pin input line
 				(at -11.43 12.7 0)
 				(length 2.54)
@@ -172,7 +181,7 @@
 			(pin input line
 				(at -11.43 -7.62 0)
 				(length 2.54)
-				(name "VDC+1"
+				(name "DC-"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -190,7 +199,7 @@
 			(pin input line
 				(at -11.43 -11.43 0)
 				(length 2.54)
-				(name "VSW"
+				(name "DC+"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -208,7 +217,7 @@
 			(pin input line
 				(at -11.43 -15.24 0)
 				(length 2.54)
-				(name "VDC-1"
+				(name "SW"
 					(effects
 						(font
 							(size 1.27 1.27)

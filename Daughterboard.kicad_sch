@@ -490,6 +490,238 @@
 				)
 			)
 		)
+		(symbol "DB_to_MB_conn:DB_to_MB_conn"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "U"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "DB_to_MB_conn_1_1"
+				(rectangle
+					(start -8.89 15.24)
+					(end 8.89 -16.51)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(text "DB Aux + PWR\nConnector"
+					(at -0.508 -3.048 0)
+					(effects
+						(font
+							(size 1.27 1.27)
+							(color 0 132 132 1)
+						)
+					)
+				)
+				(pin input line
+					(at -11.43 12.7 0)
+					(length 2.54)
+					(name "ENABLEL"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 11.43 12.7 180)
+					(length 2.54)
+					(name "VCC+5V"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -11.43 8.89 0)
+					(length 2.54)
+					(name "PWMH"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 11.43 8.89 180)
+					(length 2.54)
+					(name "ENABLEH"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -11.43 5.08 0)
+					(length 2.54)
+					(name "PWML"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 11.43 5.08 180)
+					(length 2.54)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -11.43 -7.62 0)
+					(length 2.54)
+					(name "DC-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -11.43 -11.43 0)
+					(length 2.54)
+					(name "DC+"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -11.43 -15.24 0)
+					(length 2.54)
+					(name "SW"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "9"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
 		(symbol "Daughter:IES0105S09"
 			(pin_names
 				(offset 0.254)
@@ -1666,238 +1898,6 @@
 						)
 					)
 					(number "8"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-		)
-		(symbol "New_Library_0:DB_to_MB_conn"
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "U"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "DB_to_MB_conn_1_1"
-				(rectangle
-					(start -8.89 15.24)
-					(end 8.89 -16.51)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type background)
-					)
-				)
-				(text "DB Aux + PWR\nConnector"
-					(at -0.508 -3.048 0)
-					(effects
-						(font
-							(size 1.27 1.27)
-							(color 0 132 132 1)
-						)
-					)
-				)
-				(pin input line
-					(at -11.43 12.7 0)
-					(length 2.54)
-					(name "ENABLEL"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at 11.43 12.7 180)
-					(length 2.54)
-					(name "VCC+5V"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at -11.43 8.89 0)
-					(length 2.54)
-					(name "PWMH"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at 11.43 8.89 180)
-					(length 2.54)
-					(name "ENABLEH"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at -11.43 5.08 0)
-					(length 2.54)
-					(name "PWML"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "5"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at 11.43 5.08 180)
-					(length 2.54)
-					(name "GND"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "6"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at -11.43 -7.62 0)
-					(length 2.54)
-					(name "DC+"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "7"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at -11.43 -11.43 0)
-					(length 2.54)
-					(name "SW"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "8"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at -11.43 -15.24 0)
-					(length 2.54)
-					(name "DC-"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "9"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -3257,16 +3257,6 @@
 	)
 	(wire
 		(pts
-			(xy 363.22 48.26) (xy 365.76 48.26)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0a7652a6-ccb2-4822-ac75-f2b533dc1e81")
-	)
-	(wire
-		(pts
 			(xy 219.71 185.42) (xy 219.71 187.96)
 		)
 		(stroke
@@ -3394,6 +3384,16 @@
 			(type default)
 		)
 		(uuid "19078776-2587-477c-82a6-a8529588d6b7")
+	)
+	(wire
+		(pts
+			(xy 361.95 48.26) (xy 365.76 48.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1a19bfde-3752-42d4-bb36-465a7627c97e")
 	)
 	(wire
 		(pts
@@ -3527,16 +3527,6 @@
 	)
 	(wire
 		(pts
-			(xy 363.22 44.45) (xy 365.76 44.45)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "28c4594d-87f3-4727-b3dc-7844bdb337cc")
-	)
-	(wire
-		(pts
 			(xy 58.42 29.21) (xy 78.74 29.21)
 		)
 		(stroke
@@ -3634,6 +3624,16 @@
 			(type default)
 		)
 		(uuid "3eb41fd8-754e-4ac6-a5bb-31c45637c34b")
+	)
+	(wire
+		(pts
+			(xy 363.22 44.45) (xy 365.76 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3ebdd618-5600-4b16-859b-b20a4b744535")
 	)
 	(wire
 		(pts
@@ -3784,16 +3784,6 @@
 			(type default)
 		)
 		(uuid "4ee82987-64ba-4ddc-b267-e5e5e871a00c")
-	)
-	(wire
-		(pts
-			(xy 363.22 40.64) (xy 365.76 40.64)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4ef75e91-1ee8-475e-8491-2f6477a026c1")
 	)
 	(wire
 		(pts
@@ -4664,6 +4654,16 @@
 			(type default)
 		)
 		(uuid "a89445f2-32a8-4ce0-8802-6ad3051fa596")
+	)
+	(wire
+		(pts
+			(xy 363.22 40.64) (xy 365.76 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a8a73adc-1499-4f58-925a-5c9711876b96")
 	)
 	(wire
 		(pts
@@ -5655,7 +5655,7 @@
 	)
 	(global_label "DC+"
 		(shape input)
-		(at 363.22 40.64 180)
+		(at 363.22 44.45 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5665,7 +5665,7 @@
 		)
 		(uuid "21852a3f-5fc1-41fa-8d11-f6d913c7114e")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 356.1224 40.64 0)
+			(at 356.1224 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5721,7 +5721,7 @@
 	)
 	(global_label "SW"
 		(shape input)
-		(at 363.22 44.45 180)
+		(at 361.95 48.26 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5731,7 +5731,7 @@
 		)
 		(uuid "36c424fd-4cc1-482e-9aa0-f30d9810a27a")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 357.5739 44.45 0)
+			(at 356.3039 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6447,7 +6447,7 @@
 	)
 	(global_label "DC-"
 		(shape input)
-		(at 363.22 48.26 180)
+		(at 363.22 40.64 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6457,7 +6457,7 @@
 		)
 		(uuid "db123f7f-e00c-419e-94bd-d86e413a75de")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 356.1224 48.26 0)
+			(at 356.1224 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11472,7 +11472,7 @@
 		)
 	)
 	(symbol
-		(lib_id "New_Library_0:DB_to_MB_conn")
+		(lib_id "DB_to_MB_conn:DB_to_MB_conn")
 		(at 377.19 33.02 0)
 		(unit 1)
 		(exclude_from_sim no)

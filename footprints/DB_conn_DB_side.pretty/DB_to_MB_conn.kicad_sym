@@ -73,7 +73,7 @@
 			(pin input line
 				(at -11.43 12.7 0)
 				(length 2.54)
-				(name "ENABLE"
+				(name "ENABLEL"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -91,7 +91,7 @@
 			(pin input line
 				(at 11.43 12.7 180)
 				(length 2.54)
-				(name "VCC"
+				(name "VCC+5V"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -127,7 +127,7 @@
 			(pin input line
 				(at 11.43 8.89 180)
 				(length 2.54)
-				(name "VDRV"
+				(name "ENABLEH"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -163,7 +163,7 @@
 			(pin input line
 				(at 11.43 5.08 180)
 				(length 2.54)
-				(name "PGND"
+				(name "GND"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -181,7 +181,7 @@
 			(pin input line
 				(at -11.43 -7.62 0)
 				(length 2.54)
-				(name "VDC+1"
+				(name "DC-"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -199,7 +199,7 @@
 			(pin input line
 				(at -11.43 -11.43 0)
 				(length 2.54)
-				(name "VSW"
+				(name "DC+"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -217,7 +217,7 @@
 			(pin input line
 				(at -11.43 -15.24 0)
 				(length 2.54)
-				(name "VDC-1"
+				(name "SW"
 					(effects
 						(font
 							(size 1.27 1.27)

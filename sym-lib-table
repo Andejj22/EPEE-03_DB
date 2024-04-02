@@ -1,3 +1,5 @@
 (sym_lib_table
-  (lib (name "New_Library")(type "KiCad")(uri "C:/Users/Santeri/OneDrive/Documents/newscematic/test/elepaja/New_Library.kicad_sym")(options "")(descr ""))
+  (version 7)
+  (lib (name "DB_to_MB_conn")(type "KiCad")(uri "${KIPRJMOD}/footprints/DB_conn_DB_side.pretty/DB_to_MB_conn.kicad_sym")(options "")(descr ""))
+  (lib (name "DB_connector_symbol")(type "KiCad")(uri "C:/Users/antti/OneDrive/Asiakirjat/KiCad/WTP_MB/DB_conn.pretty/DB_connector_symbol.kicad_sym")(options "")(descr ""))
 )
