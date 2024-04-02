@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Users\Santeri\OneDrive\Työpöytä\Daughterboard_KiCad\KiCad\Daughterboard.kicad_sch</source>
+    <date>3/21/2024 10:44:12 AM</date>
+    <tool>Eeschema (6.0.8)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Daughterboard.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>10u</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: Daughterboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e8781e88-0d19-4fe6-af1f-51ffd0577a3f</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>0.1u</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: Daughterboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>65e02884-0df4-41c5-a13d-e0a027a65dfa</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>4.7u</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: Daughterboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bf3b9692-0245-4b42-8ade-697aa2bac750</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>0.1u</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: Daughterboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>930dfbc0-44b9-4290-9b5f-bf0b8359e0ef</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>4.7u</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: Daughterboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>29fbea95-17d4-43dd-8686-60b4308e8e53</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>1u</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: Daughterboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e2d57b24-5517-4464-b0f2-d653ba7fc6a9</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>1u</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: Daughterboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c35ffab4-1e50-4781-ac43-1ad8d2d58bef</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>1u</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: Daughterboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>37d7ac45-3d9a-42aa-9efe-fa61b82da263</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>1u</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: Daughterboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>138803cc-b887-4a5b-bd6a-add20eccc114</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>5.8</value>
+      <libsource lib="Device" part="D_Zener" description="Zener diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: Daughterboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c92bc7b8-46c6-4d09-8050-dbde68057c4c</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>0</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: Daughterboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c7f8adf4-a3b1-4e99-b13e-6f4640d3fae7</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>3.3k</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: Daughterboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5a789eed-3e94-4b9b-bcda-5d4d69c34df3</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>2</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: Daughterboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3918fb7c-1fa7-47e7-afbf-d0e55f1a99a4</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>2.2k</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: Daughterboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0be49888-1a64-45ed-88e5-68b2771400a3</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>10</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: Daughterboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5f7058eb-6983-4552-9151-9ad24f41fdf5</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>1k</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: Daughterboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d41a0731-ba4e-43d7-8960-366e49453609</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>10k</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: Daughterboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9e195575-e71b-4b2d-8956-2e3ff44244bb</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>TSM_0509S</value>
+      <footprint>TSM_SINGLE_TRP</footprint>
+      <datasheet>TSM 0509S</datasheet>
+      <libsource lib="daughter" part="TSM_0509S" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: Daughterboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5ebda699-df01-4721-9c72-c4310e4b03f2</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>SI8271GB-IS</value>
+      <libsource lib="" part="SI8271GB-IS_2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: Daughterboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>52bbbbb6-7f4e-4387-a6f6-695702558fd4</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>GS61004B</value>
+      <fields>
+        <field name="Datasheet_1">https://gansystems.com/wp-content/uploads/2020/04/GS61004B-DS-Rev-200402.pdf</field>
+        <field name="Footprint_1">GS61004B</field>
+        <field name="Manufacturer_Name">GaN Systems</field>
+        <field name="Manufacturer_Part_Number">GS61004B</field>
+        <field name="Reference_1">Q</field>
+        <field name="Value_1">GS61004B</field>
+      </fields>
+      <libsource lib="daughter" part="GS61004B" description="100V, 38A, Enhancement mode GaN Transistor, GaNPX package, Bottom-side cooled"/>
+      <property name="Reference_1" value="Q"/>
+      <property name="Value_1" value="GS61004B"/>
+      <property name="Footprint_1" value="GS61004B"/>
+      <property name="Datasheet_1" value="https://gansystems.com/wp-content/uploads/2020/04/GS61004B-DS-Rev-200402.pdf"/>
+      <property name="Height" value=""/>
+      <property name="Manufacturer_Name" value="GaN Systems"/>
+      <property name="Manufacturer_Part_Number" value="GS61004B"/>
+      <property name="Mouser Part Number" value=""/>
+      <property name="Mouser Price/Stock" value=""/>
+      <property name="Arrow Part Number" value=""/>
+      <property name="Arrow Price/Stock" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: Daughterboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2321d502-ad11-480a-b024-2417a13e246a</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="" part="SI8271GB-IS_2">
+      <fields>
+        <field name="Reference">U?</field>
+        <field name="Value">SI8271GB-IS</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VI" type="input"/>
+        <pin num="2" name="VDDI" type="input"/>
+        <pin num="3" name="GNDI" type="input"/>
+        <pin num="4" name="EN" type="input"/>
+        <pin num="5" name="GND" type="output"/>
+        <pin num="6" name="VO-" type="output"/>
+        <pin num="7" name="VO+" type="output"/>
+        <pin num="8" name="VDD" type="output"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="D_Zener">
+      <description>Zener diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D_Zener</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="daughter" part="GS61004B">
+      <description>100V, 38A, Enhancement mode GaN Transistor, GaNPX package, Bottom-side cooled</description>
+      <fields>
+        <field name="Value">GS61004B</field>
+        <field name="Reference_1">Q</field>
+        <field name="Value_1">GS61004B</field>
+        <field name="Footprint_1">GS61004B</field>
+        <field name="Datasheet_1">https://gansystems.com/wp-content/uploads/2020/04/GS61004B-DS-Rev-200402.pdf</field>
+        <field name="Manufacturer_Name">GaN Systems</field>
+        <field name="Manufacturer_Part_Number">GS61004B</field>
+      </fields>
+      <pins>
+        <pin num="1" name="D" type="passive"/>
+        <pin num="2" name="G" type="passive"/>
+        <pin num="3" name="S" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="daughter" part="TSM_0509S">
+      <docs>TSM 0509S</docs>
+      <footprints>
+        <fp>TSM_SINGLE_TRP</fp>
+        <fp>TSM_SINGLE_TRP-M</fp>
+        <fp>TSM_SINGLE_TRP-L</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U?</field>
+        <field name="Value">TSM_0509S</field>
+        <field name="Footprint">TSM_SINGLE_TRP</field>
+        <field name="Datasheet">TSM 0509S</field>
+      </fields>
+      <pins>
+        <pin num="1" name="-VIN(GND)" type="power_in"/>
+        <pin num="2" name="+VIN(Vcc)" type="power_in"/>
+        <pin num="3" name="NTC" type="no_connect"/>
+        <pin num="4" name="-VO" type="power_in"/>
+        <pin num="5" name="+VO" type="power_in"/>
+        <pin num="6" name="NTC" type="no_connect"/>
+        <pin num="7" name="NTC" type="no_connect"/>
+        <pin num="8" name="NTC" type="no_connect"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+    <library logical="daughter">
+      <uri>C:/Users/Santeri/OneDrive/Documents/newscematic/test/elepaja/daughter.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="Earth">
+      <node ref="C10" pin="1" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+      <node ref="R7" pin="2" pintype="passive"/>
+    </net>
+    <net code="2" name="GND">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="-VIN(GND)" pintype="power_in"/>
+      <node ref="U2" pin="3" pinfunction="GNDI" pintype="input"/>
+    </net>
+    <net code="3" name="Net-(C4-Pad1)">
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="U2" pin="1" pinfunction="VI" pintype="input"/>
+    </net>
+    <net code="4" name="Net-(C5-Pad1)">
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="U2" pin="4" pinfunction="EN" pintype="input"/>
+    </net>
+    <net code="5" name="Net-(R3-Pad1)">
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="U2" pin="6" pinfunction="VO-" pintype="output"/>
+    </net>
+    <net code="6" name="Net-(R5-Pad1)">
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="U2" pin="7" pinfunction="VO+" pintype="output"/>
+    </net>
+    <net code="7" name="Net-(R7-Pad1)">
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+      <node ref="R7" pin="1" pintype="passive"/>
+      <node ref="U3" pin="2" pinfunction="G" pintype="passive"/>
+    </net>
+    <net code="8" name="PWM">
+      <node ref="R1" pin="1" pintype="passive"/>
+    </net>
+    <net code="9" name="VCC">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="+VIN(Vcc)" pintype="power_in"/>
+      <node ref="U2" pin="2" pinfunction="VDDI" pintype="input"/>
+    </net>
+    <net code="10" name="VDD">
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="U1" pin="5" pinfunction="+VO" pintype="power_in"/>
+      <node ref="U2" pin="8" pinfunction="VDD" pintype="output"/>
+    </net>
+    <net code="11" name="VEE">
+      <node ref="C10" pin="2" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+      <node ref="U1" pin="4" pinfunction="-VO" pintype="power_in"/>
+      <node ref="U2" pin="5" pinfunction="GND" pintype="output"/>
+    </net>
+    <net code="12" name="unconnected-(U1-Pad3)">
+      <node ref="U1" pin="3" pinfunction="NTC" pintype="no_connect"/>
+    </net>
+    <net code="13" name="unconnected-(U1-Pad6)">
+      <node ref="U1" pin="6" pinfunction="NTC" pintype="no_connect"/>
+    </net>
+    <net code="14" name="unconnected-(U1-Pad7)">
+      <node ref="U1" pin="7" pinfunction="NTC" pintype="no_connect"/>
+    </net>
+    <net code="15" name="unconnected-(U1-Pad8)">
+      <node ref="U1" pin="8" pinfunction="NTC" pintype="no_connect"/>
+    </net>
+    <net code="16" name="unconnected-(U3-Pad1)">
+      <node ref="U3" pin="1" pinfunction="D" pintype="passive"/>
+    </net>
+    <net code="17" name="unconnected-(U3-Pad3)">
+      <node ref="U3" pin="3" pinfunction="S" pintype="passive"/>
+    </net>
+  </nets>
+</export>

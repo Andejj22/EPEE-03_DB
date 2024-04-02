@@ -1,0 +1,8 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "DB_MB_conn")(type "KiCad")(uri "${KIPRJMOD}/footprints/DB_conn_DB_side.pretty")(options "")(descr ""))
+  (lib (name "GS61004B")(type "KiCad")(uri "${KIPRJMOD}/footprints/GS61004B.pretty")(options "")(descr ""))
+  (lib (name "Daughter")(type "KiCad")(uri "${KIPRJMOD}/footprints/footprints.pretty/Daughter.pretty")(options "")(descr ""))
+  (lib (name "footprints")(type "KiCad")(uri "${KIPRJMOD}/footprints/footprints.pretty")(options "")(descr ""))
+  (lib (name "IES0105S09")(type "KiCad")(uri "${KIPRJMOD}/footprints/IES0105S09.pretty")(options "")(descr ""))
+)
