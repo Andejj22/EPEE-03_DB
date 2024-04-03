@@ -6561,7 +6561,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D2.0mm"
+		(property "Footprint" "TestPoint:TestPoint_THTPad_D1.0mm_Drill0.5mm"
 			(at 341.63 125.73 0)
 			(effects
 				(font
@@ -7080,7 +7080,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D2.0mm"
+		(property "Footprint" "TestPoint:TestPoint_THTPad_D1.0mm_Drill0.5mm"
 			(at 341.503 107.823 0)
 			(effects
 				(font
@@ -7253,7 +7253,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "GS61004B:GS61004B"
+		(property "Footprint" "GS61004B:GS6XXX4B"
 			(at 232.41 231.14 0)
 			(effects
 				(font
@@ -8091,7 +8091,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D2.0mm"
+		(property "Footprint" "TestPoint:TestPoint_THTPad_D1.0mm_Drill0.5mm"
 			(at 355.6 125.73 0)
 			(effects
 				(font
@@ -9052,7 +9052,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D2.0mm"
+		(property "Footprint" "TestPoint:TestPoint_THTPad_D1.0mm_Drill0.5mm"
 			(at 325.12 125.73 0)
 			(effects
 				(font
@@ -10037,7 +10037,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D2.0mm"
+		(property "Footprint" "TestPoint:TestPoint_THTPad_D1.0mm_Drill0.5mm"
 			(at 324.993 107.823 0)
 			(effects
 				(font
@@ -12358,7 +12358,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D2.0mm"
+		(property "Footprint" "TestPoint:TestPoint_THTPad_D1.0mm_Drill0.5mm"
 			(at 314.96 125.73 0)
 			(effects
 				(font
@@ -12443,7 +12443,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D2.0mm"
+		(property "Footprint" "TestPoint:TestPoint_THTPad_D1.0mm_Drill0.5mm"
 			(at 355.473 107.823 0)
 			(effects
 				(font
@@ -12635,7 +12635,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "GS61004B:GS61004B"
+		(property "Footprint" "GS61004B:GS6XXX4B"
 			(at 232.41 93.98 0)
 			(effects
 				(font

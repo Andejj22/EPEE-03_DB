@@ -1,4 +1,4 @@
-23138697007152243
+23142121201834994
 6_Pin_connector
 CON6_1X6_TU_SSQ
 
@@ -56721,9 +56721,23 @@ Fuse Fuseholder TR5 Littelfuse/Wickmann No. 460 No560
 2
 2
 GS61004B
+GS6XXX4B
+
+
+0
+3
+3
+GS61004B
 GS61004B
 GS61004B
 Transistor E-mode GaN (3-Pin)
+0
+3
+3
+GS66504B
+TRANS_GS66504B-TR
+
+
 0
 3
 3

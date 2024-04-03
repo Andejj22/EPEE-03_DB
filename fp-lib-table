@@ -5,4 +5,5 @@
   (lib (name "Daughter")(type "KiCad")(uri "${KIPRJMOD}/footprints/footprints.pretty/Daughter.pretty")(options "")(descr ""))
   (lib (name "footprints")(type "KiCad")(uri "${KIPRJMOD}/footprints/footprints.pretty")(options "")(descr ""))
   (lib (name "IES0105S09")(type "KiCad")(uri "${KIPRJMOD}/footprints/IES0105S09.pretty")(options "")(descr ""))
+  (lib (name "GS66504B")(type "KiCad")(uri "${KIPRJMOD}/footprints/GS66504B.pretty")(options "")(descr ""))
 )
