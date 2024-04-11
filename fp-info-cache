@@ -1,4 +1,4 @@
-23142121201834994
+23143834494185008
 6_Pin_connector
 CON6_1X6_TU_SSQ
 
@@ -53673,7 +53673,14 @@ DB_to_MB_conn
 
 
 0
+12
 9
+DB_conn_DB_side_test
+DB_to_MB_conn
+
+
+0
+12
 9
 Daughter
 IES0105S09

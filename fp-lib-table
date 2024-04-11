@@ -6,4 +6,6 @@
   (lib (name "footprints")(type "KiCad")(uri "${KIPRJMOD}/footprints/footprints.pretty")(options "")(descr ""))
   (lib (name "IES0105S09")(type "KiCad")(uri "${KIPRJMOD}/footprints/IES0105S09.pretty")(options "")(descr ""))
   (lib (name "GS66504B")(type "KiCad")(uri "${KIPRJMOD}/footprints/GS66504B.pretty")(options "")(descr ""))
+  (lib (name "DB_conn_DB_side_test")(type "KiCad")(uri "C:/Users/antti/OneDrive/Asiakirjat/KiCad/8.0/footprints/DB_conn_DB_side_test.pretty")(options "")(descr ""))
+  (lib (name "3x2_connector")(type "KiCad")(uri "C:/Users/antti/OneDrive/Asiakirjat/KiCad/Daughterboard_KiCad/3X2 signal connector/KiCADv6/3x2_connector.pretty")(options "")(descr ""))
 )
