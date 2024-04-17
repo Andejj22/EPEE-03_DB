@@ -6608,7 +6608,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB BOM" ""
+		(property "JLCPCB BOM" "0"
 			(at 336.55 125.73 0)
 			(effects
 				(font
@@ -7127,7 +7127,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB BOM" ""
+		(property "JLCPCB BOM" "0"
 			(at 336.423 107.823 0)
 			(effects
 				(font
@@ -7408,7 +7408,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB BOM" ""
+		(property "JLCPCB BOM" "0"
 			(at 232.41 231.14 0)
 			(effects
 				(font
@@ -8138,7 +8138,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB BOM" ""
+		(property "JLCPCB BOM" "0"
 			(at 350.52 125.73 0)
 			(effects
 				(font
@@ -8808,7 +8808,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB BOM" ""
+		(property "JLCPCB BOM" "0"
 			(at 106.68 27.94 0)
 			(effects
 				(font
@@ -8993,7 +8993,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB BOM" ""
+		(property "JLCPCB BOM" "0"
 			(at 149.86 242.57 0)
 			(effects
 				(font
@@ -9099,7 +9099,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB BOM" ""
+		(property "JLCPCB BOM" "0"
 			(at 320.04 125.73 0)
 			(effects
 				(font
@@ -9356,7 +9356,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB BOM" ""
+		(property "JLCPCB BOM" "0"
 			(at 120.65 163.83 0)
 			(effects
 				(font
@@ -9911,7 +9911,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB BOM" ""
+		(property "JLCPCB BOM" "1"
 			(at 220.98 101.6 0)
 			(effects
 				(font
@@ -10084,7 +10084,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB BOM" ""
+		(property "JLCPCB BOM" "0"
 			(at 319.913 107.823 0)
 			(effects
 				(font
@@ -10497,7 +10497,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB BOM" ""
+		(property "JLCPCB BOM" "1"
 			(at 220.98 238.76 0)
 			(effects
 				(font
@@ -10761,7 +10761,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB BOM" ""
+		(property "JLCPCB BOM" "1"
 			(at 207.01 165.1 0)
 			(effects
 				(font
@@ -10849,7 +10849,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB BOM" ""
+		(property "JLCPCB BOM" "1"
 			(at 207.01 175.26 0)
 			(effects
 				(font
@@ -11544,7 +11544,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB BOM" ""
+		(property "JLCPCB BOM" "0"
 			(at 377.19 33.02 0)
 			(effects
 				(font
@@ -11653,7 +11653,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB BOM" ""
+		(property "JLCPCB BOM" "1"
 			(at 193.04 29.21 0)
 			(effects
 				(font
@@ -11741,7 +11741,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB BOM" ""
+		(property "JLCPCB BOM" "1"
 			(at 193.04 39.37 0)
 			(effects
 				(font
@@ -11982,7 +11982,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB BOM" ""
+		(property "JLCPCB BOM" "0"
 			(at 331.724 31.75 0)
 			(effects
 				(font
@@ -12405,7 +12405,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB BOM" ""
+		(property "JLCPCB BOM" "0"
 			(at 309.88 125.73 0)
 			(effects
 				(font
@@ -12490,7 +12490,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB BOM" ""
+		(property "JLCPCB BOM" "0"
 			(at 350.393 107.823 0)
 			(effects
 				(font
@@ -12575,7 +12575,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB BOM" ""
+		(property "JLCPCB BOM" "0"
 			(at 149.86 105.41 0)
 			(effects
 				(font
@@ -12790,7 +12790,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB BOM" ""
+		(property "JLCPCB BOM" "0"
 			(at 232.41 93.98 0)
 			(effects
 				(font
